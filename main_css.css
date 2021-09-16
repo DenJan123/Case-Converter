@@ -1,0 +1,26 @@
+.buttons-menu{
+    margin: 10px;
+    width: 80%;
+    display: flex;
+    height: 2em;
+    line-height: 3em;
+    /*background: aqua;*/
+    flex-flow: wrap ;
+}
+.button{
+    text-align: center;
+    margin: 5px;
+    background: #ffac58;
+}
+.text-and-buttons{
+    width: 90vw;
+    height: 80vh;
+    /*background: red;*/
+}
+textarea{
+    width: 80%;
+    height: 80%;
+}
+/*body{*/
+/*    background: chartreuse;*/
+/*}*/
